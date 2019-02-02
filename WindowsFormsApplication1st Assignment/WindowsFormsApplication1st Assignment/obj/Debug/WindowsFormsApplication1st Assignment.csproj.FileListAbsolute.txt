@@ -1,0 +1,9 @@
+G:\New folder\WindowsFormsApplication1st Assignment\WindowsFormsApplication1st Assignment\bin\Debug\WindowsFormsApplication1st Assignment.exe.config
+G:\New folder\WindowsFormsApplication1st Assignment\WindowsFormsApplication1st Assignment\bin\Debug\WindowsFormsApplication1st Assignment.exe
+G:\New folder\WindowsFormsApplication1st Assignment\WindowsFormsApplication1st Assignment\bin\Debug\WindowsFormsApplication1st Assignment.pdb
+G:\New folder\WindowsFormsApplication1st Assignment\WindowsFormsApplication1st Assignment\obj\Debug\WindowsFormsApplication1st Assignment.csprojResolveAssemblyReference.cache
+G:\New folder\WindowsFormsApplication1st Assignment\WindowsFormsApplication1st Assignment\obj\Debug\WindowsFormsApplication1st_Assignment.Properties.Resources.resources
+G:\New folder\WindowsFormsApplication1st Assignment\WindowsFormsApplication1st Assignment\obj\Debug\WindowsFormsApplication1st Assignment.csproj.GenerateResource.Cache
+G:\New folder\WindowsFormsApplication1st Assignment\WindowsFormsApplication1st Assignment\obj\Debug\WindowsFormsApplication1st Assignment.exe
+G:\New folder\WindowsFormsApplication1st Assignment\WindowsFormsApplication1st Assignment\obj\Debug\WindowsFormsApplication1st Assignment.pdb
+G:\New folder\WindowsFormsApplication1st Assignment\WindowsFormsApplication1st Assignment\obj\Debug\WindowsFormsApplication1st_Assignment.CoffeeShopUi.resources
